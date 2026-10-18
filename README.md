@@ -8,7 +8,7 @@ An interactive digital artwork featuring Maa Durga, presented through an animate
 
 ## Run Locally
 
-Open `index.html` in a modern web browser with JavaScript and WebGL enabled. The Dhak mix starts automatically with the drawing; no separate audio file or player controls are needed. Browser autoplay policies may block sound until the visitor interacts with the page. The project is self-contained and requires no package installation or build step.
+Open `index.html` in a modern web browser with JavaScript and WebGL enabled. The Dhak mix attempts to start automatically with the drawing; if the browser blocks audible autoplay, the first click or key press anywhere on the page starts it. No separate audio file or player controls are needed. The project is self-contained and requires no package installation or build step.
 
 ## Technology
 
